@@ -1,6 +1,6 @@
 // LOOP TYPING AND DELETE EFFECT
 
-const words =  ["Web Developer", "Blockchain Content Writer", "PC Hardware Engineer"];
+const words =  ["Geospatial Data Scientist", "Web Developer", "PC Hardware Engineer"];
 let i = 0;
 let timer;
 function typingEffect(){
